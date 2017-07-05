@@ -100,7 +100,6 @@ function getSelectedText() {
  *     they exist.
  */
 function getPreferences() {
-  var userProperties = PropertiesService.getUserProperties();
   var languagePrefs = {
     originLang: userProperties.getProperty('originLang'),
     destLang: userProperties.getProperty('destLang')
