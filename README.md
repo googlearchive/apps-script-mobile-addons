@@ -1,5 +1,8 @@
-Apps Script Mobile Add-ons
-==========================
+# This repo has been moved to [apps-script-samples](https://github.com/gsuitedevs/apps-script-samples/tree/master/android/mobile-translate).
+
+---
+
+## Apps Script Mobile Add-ons
 
 Android applications that interact with the Google Docs and Sheets
 editor apps, and use the
